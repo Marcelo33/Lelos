@@ -1,0 +1,49 @@
+.cor{
+    background-color: #e70303;
+}
+
+body{
+    background-color: #ffae00 ;
+}
+
+.cor2{
+    color: #FFFFFF;
+}
+
+.imlogo{
+    width: 150px;
+    height: 150px;
+}
+
+.tamanho{
+width: 100px;
+height: 100px;
+}
+
+.cor1{
+    background-color: #FFFFFF;
+}
+
+.cor4{
+    color: #F60404;
+}
+
+.cor6{
+    color: #ffee00;
+}
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.color8{
+    background-color: #ffae00 ;
+}
+
+.centro{
+    text-align: center;
+}
